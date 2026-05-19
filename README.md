@@ -31,7 +31,7 @@ This template provides the architecture, components, and AI-assisted workflow to
 ## 🚀 Quick Start: See the Demo (2 Minutes)
 
 ```bash
-git clone https://github.com/zendesk/zdp-streamlit-bi-template.git
+git clone https://github.com/AlanIslasZd/zdp-streamlit-bi-template.git
 cd zdp-streamlit-bi-template
 pip install -e .
 streamlit run streamlit_app.py
